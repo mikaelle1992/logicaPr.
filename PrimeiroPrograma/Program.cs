@@ -19,8 +19,8 @@ namespace PrimeiroPrograma
 
             Console.WriteLine("digite seu idade:");
              idade = int.Parse(Console.ReadLine());
-             
-            Console.WriteLine("Nome: "+nome+"\n Idade : " + idade +"\n Salario :" + salario.ToString("F1"));
+
+            Console.WriteLine("seu Nome: "+nome+"\n Idade : " + idade +"\n Salario :" + salario.ToString("F1"));
             
         }
     }
