@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613172209 source:c:\users\mikaelle\cursos\ws-codebloks\menordetres\main.c
+	<stdio.h>
+	<stdlib.h>
+

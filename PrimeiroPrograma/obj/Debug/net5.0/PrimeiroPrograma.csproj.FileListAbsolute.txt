@@ -1,0 +1,16 @@
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\bin\Debug\net5.0\PrimeiroPrograma.exe
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\bin\Debug\net5.0\PrimeiroPrograma.deps.json
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\bin\Debug\net5.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\bin\Debug\net5.0\PrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\bin\Debug\net5.0\PrimeiroPrograma.dll
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\bin\Debug\net5.0\ref\PrimeiroPrograma.dll
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\bin\Debug\net5.0\PrimeiroPrograma.pdb
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.dll
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\ref\PrimeiroPrograma.dll
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.pdb
+C:\Users\Mikaelle\cursos\logica de programação\PrimeiroPrograma\obj\Debug\net5.0\PrimeiroPrograma.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613305300 source:c:\users\mikaelle\cursos\ws-codebloks\crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+

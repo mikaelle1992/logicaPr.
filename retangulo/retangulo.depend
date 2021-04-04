@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612734669 source:c:\users\mikaelle\cursos\ws-codebloks\retangulo\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
