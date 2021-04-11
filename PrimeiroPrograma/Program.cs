@@ -11,13 +11,13 @@ namespace PrimeiroPrograma
             double salario;
             String nome;
 
-            Console.WriteLine("digite seu nome:");
+            Console.WriteLine("Digite seu nome:");
             nome = Console.ReadLine();
 
-            Console.WriteLine("digite seu salario:");
+            Console.WriteLine("Digite seu salario:");
             salario = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("digite seu idade:");
+            Console.WriteLine("Digite seu idade:");
              idade = int.Parse(Console.ReadLine());
 
             Console.WriteLine("seu Nome: "+nome+"\n Idade : " + idade +"\n Salario :" + salario.ToString("F1"));

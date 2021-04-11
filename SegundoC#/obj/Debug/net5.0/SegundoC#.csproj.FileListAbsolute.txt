@@ -1,0 +1,16 @@
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\bin\Debug\net5.0\SegundoC#.exe
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\bin\Debug\net5.0\SegundoC#.deps.json
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\bin\Debug\net5.0\SegundoC#.runtimeconfig.json
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\bin\Debug\net5.0\SegundoC#.runtimeconfig.dev.json
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\bin\Debug\net5.0\SegundoC#.dll
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\bin\Debug\net5.0\ref\SegundoC#.dll
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\bin\Debug\net5.0\SegundoC#.pdb
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.csprojAssemblyReference.cache
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.AssemblyInfoInputs.cache
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.AssemblyInfo.cs
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.csproj.CoreCompileInputs.cache
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.dll
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\ref\SegundoC#.dll
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.pdb
+C:\Users\Mikaelle\cursos\logica de programação\SegundoC#\obj\Debug\net5.0\SegundoC#.genruntimeconfig.cache
